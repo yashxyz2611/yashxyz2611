@@ -2,13 +2,14 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img allgn="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashxyz2611&label=Profile%20views&color=0e75b6&style=flat" alt="yashxyz2611" /> </p>
 
-- 🌱 I’m currently learning **B.Tech In Computer Science**
+- 🌱 I’m currently learning **B.Tech In Computer Science Engineering**
 
 - 💬 Ask me about **DSA , Android**
 
-- 📫 How to reach me **yashxyz2611@gmail.com**
+- 📫 How to reach me **yashsinghthakur2611@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
